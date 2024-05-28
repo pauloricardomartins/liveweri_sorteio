@@ -1,5 +1,7 @@
 <?php
 
+use App\Livewire\Sorteio;
+
 it('returns a successful response', function () {
     $response = $this->get('/');
 
